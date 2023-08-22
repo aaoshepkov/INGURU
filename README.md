@@ -1,7 +1,6 @@
 <p align="center">
-## Тестовое задание
+(## Тестовое задание)
 </p>
-
 ![] (https://img.hhcdn.ru/employer-logo/1916367.png)
 
 # Задание: 
