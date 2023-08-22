@@ -1,6 +1,6 @@
 ### INGURU
 Тестовое задание от INGURU.RU
-![INGURU LOGO](https://img.hhcdn.ru/employer-logo/1916367.png)
+![] (https://img.hhcdn.ru/employer-logo/1916367.png)
 
 # Задание: 
 
