@@ -47,6 +47,8 @@
    Приоритет: High
    Серьезность: Blocker
 
+   ![](https://drive.google.com/file/d/1HLIHGasi3vyhD9_DUfmwlxFkBcfNXjO-/view?usp=sharing)
+
 
 
    # Вывод:
